@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+body{
+    font-family: monts b ;
+    /* background-color: tan; */
+    background-color: #fff;
+    background: linear-gradient(90deg,tan 0%,#3a47d7);
+    color: #FFFFFF;
+}
+h1{
+    /* border: 2px solid black; */
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20%;
+    font-family:Montserrat;
+}
+span{
+    color:#1f1515;
+    font-size: 100px;
+    font-weight: 600;
+}
+p{
+    text-align: center;
+    margin-top: -20px;
+}
+button{
+    margin:auto;
+    display: block;
+}
+.btn{
+    background-color: transparent;
+    border: 2px solid #1f1f1f;
+    border-radius: 0.6em;
+    font-size: 1rem;
+    padding: 1.2em 2.5em;
+    cursor: pointer;
+    text-align: center;
+    text-transform:uppercase;
+    font-family:Montserrat;
+    font-weight: 400;
+}
+.btn:hover{
+    color: #FFFFFF;
+}
+.lco{
+    transition:box-shadow 300ms ease-in-out,color 300ms ease-in-out;
+}
+.lco:hover{
+    box-shadow: 0 0 30px 30px #1f1f1f inset;
+}
+@media screen and (max-width:1000px)
+/* maximum limit of working */
+{
+    body{
+        background: orange;
+    }
+    h1{
+        font-size: 40px;
+    }
+    span{
+        font-size: 60px;
+    }
+}
+@media screen and (min-width:400px)     and (max-width:600px) {
+    body{
+        background: red;
+    }
+    body{
+        background: crimson;
+    }
+    h1{
+        font-size: 20px;
+    }
+    span{
+        font-size: 30px;
+    }
+    
+}
