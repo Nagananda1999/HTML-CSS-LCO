@@ -54,7 +54,7 @@ First Responsive Landing page created
         <tr>
             <td>02HTML</td>
             <td>
-                <img src="./02html/html.png" width="600px" alt="img">
+                <img src="./02html/html.png" width="400px" alt="img">
             </td>
             <td>
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/02html" target="_blank">Source</a>
