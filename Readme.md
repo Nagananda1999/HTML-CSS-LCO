@@ -66,7 +66,7 @@ First Responsive Landing page created
         <tr>
             <td>03Landing page</td>
             <td>
-                <img src="./03landing page/landingpage.png" width="600px" alt="img">
+                <img src="./03landing page/landingpage.png" width="400px" alt="img">
             </td>
             <td>
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/03landing%20page" target="_blank">Source</a>
@@ -78,7 +78,7 @@ First Responsive Landing page created
         <tr>
             <td>04 Comming Soon</td>
             <td>
-                <img src="./04coming soon/comming_soon.png" width="600px" alt="img">
+                <img src="./04coming soon/comming_soon.png" width="400px" alt="img">
             </td>
             <td>
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/04coming%20soon" target="_blank">Source</a>
@@ -90,7 +90,7 @@ First Responsive Landing page created
         <tr>
             <td>05 Mobile App</td>
             <td>
-                <img src="./05app/app.png" width="600px" alt="img">
+                <img src="./05app/app.png" width="400px" alt="img">
             </td>
             <td>
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/05app" target="_blank">Source</a>
@@ -102,7 +102,7 @@ First Responsive Landing page created
         <tr>
             <td>06 Registration</td>
             <td>
-                <img src="./06Registration/Registration.png" width="600px" alt="img">
+                <img src="./06Registration/Registration.png" width="400px" alt="img">
             </td>
             <td>
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/06Registration" target="_blank">Source</a>
@@ -114,7 +114,7 @@ First Responsive Landing page created
         <tr>
             <td>07 Animation</td>
             <td>
-                <img src="./07animation/animation.gif" width="600px" alt="img">
+                <img src="./07animation/animation.gif" width="400px" alt="img">
             </td>
             <td>
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/07animation" target="_blank">Source</a>
@@ -126,7 +126,7 @@ First Responsive Landing page created
         <tr>
             <td>08 razorpaystyle</td>
             <td>
-                <img src="./08razorpaystyle/razorpay.png" width="600px" alt="img">
+                <img src="./08razorpaystyle/razorpay.png" width="400px" alt="img">
             </td>
             <td>
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/08razorpaystyle" target="_blank">Source</a>
