@@ -43,7 +43,8 @@ First Responsive Landing page created
 -Learned about clip-path property which allows to make complex shapes.
 [clippy](https://bennettfeely.com/clippy/)
 
-<table border>
+<h1>LCO Projects</h1>
+    <table >
         <tr>
             <th>Name</th>
             <th>Thumbnail</th>
@@ -59,7 +60,7 @@ First Responsive Landing page created
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/02html" target="_blank">Source</a>
             </td>
             <td>
-                <a href="./02html/index.html" target="_blank">Link</a>
+                <a href="https://html-css-lco.netlify.app/02html/index.html" target="_blank">Link</a>
             </td>
         </tr>
         <tr>
@@ -71,7 +72,7 @@ First Responsive Landing page created
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/03landing%20page" target="_blank">Source</a>
             </td>
             <td>
-                <a href="./03landing page/index.html" target="_blank">Link</a>
+                <a href="https://html-css-lco.netlify.app/03landing page/index.html" target="_blank">Link</a>
             </td>
         </tr>
         <tr>
@@ -83,7 +84,7 @@ First Responsive Landing page created
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/04coming%20soon" target="_blank">Source</a>
             </td>
             <td>
-                <a href="./04coming soon/index.html" target="_blank">Link</a>
+                <a href="https://html-css-lco.netlify.app/04coming soon/index.html" target="_blank">Link</a>
             </td>
         </tr>
         <tr>
@@ -95,7 +96,7 @@ First Responsive Landing page created
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/05app" target="_blank">Source</a>
             </td>
             <td>
-                <a href="./05app/index.html" target="_blank" >Link</a>
+                <a href="https://html-css-lco.netlify.app/05app/index.html" target="_blank" >Link</a>
             </td>
         </tr>
         <tr>
@@ -107,7 +108,7 @@ First Responsive Landing page created
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/06Registration" target="_blank">Source</a>
             </td>
             <td>
-                <a href="./06Registration/index.html" target="_blank">Link</a>
+                <a href="https://html-css-lco.netlify.app/06Registration/index.html" target="_blank">Link</a>
             </td>
         </tr>
         <tr>
@@ -119,7 +120,7 @@ First Responsive Landing page created
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/07animation" target="_blank">Source</a>
             </td>
             <td>
-                <a href="./07animation/index.html" target="_blank">Link</a>
+                <a href="https://html-css-lco.netlify.app/07animation/index.html" target="_blank">Link</a>
             </td>
         </tr>
         <tr>
@@ -131,7 +132,7 @@ First Responsive Landing page created
                 <a href="https://github.com/Nagananda1999/HTML-CSS-LCO/tree/master/08razorpaystyle" target="_blank">Source</a>
             </td>
             <td>
-                <a href="./08razorpaystyle/index.html" target="_blank">Link</a>
+                <a href="https://html-css-lco.netlify.app/08razorpaystyle/index.html" target="_blank">Link</a>
             </td>
         </tr>
     </table>
